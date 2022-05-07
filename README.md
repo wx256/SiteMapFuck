@@ -10,7 +10,7 @@
 
 #Principle
 #Traverse and enumerate physical directories and splice URLs
-Due to the JS features of some websites at present, the websites cannot be listed by the usual sitemap tool. I found a lot and couldn't find it. It's very FK!
+#Due to the JS features of some websites at present, the websites cannot be listed by the usual sitemap tool. I found a lot and couldn't find it. It's very FK!
 
 So I thought of a wild way sub method, enumerating local physical paths and splicing URLs
 
