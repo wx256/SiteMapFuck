@@ -16,4 +16,4 @@ So I thought of a wild way sub method, enumerating local physical paths and spli
 
 Finally, three types of sitemap files / TXT / XML / HTML are generated
 
-
+It's working! Very Good! FK Good!
